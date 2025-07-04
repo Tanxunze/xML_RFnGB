@@ -190,6 +190,10 @@ Research contributions are welcome:
 
 This research project is licensed under the MIT License - see LICENSE file for details.
 
+## Acknowledgments
+
+I would like to express my sincere gratitude to **Professor Malachy Eaton** (Malachy.Eaton@ul.ie) for his invaluable guidance and supervision throughout this explainable AI research project. His expertise in machine learning and commitment to rigorous research methodology significantly contributed to the quality and depth of this analysis.
+
 ## Contact
 
 For research inquiries or collaboration opportunities:
